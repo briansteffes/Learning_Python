@@ -1,4 +1,5 @@
-#	These are examples typed exactly from 'Learn Python the hard Way 3rd Edition
+#These are examples adapted from 'Learn Python the hard Way 3rd Edition
+
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nNov\nDec"

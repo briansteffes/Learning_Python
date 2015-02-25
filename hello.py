@@ -25,6 +25,32 @@ hilarious = False
 joke_evaluation = "Isn't that joke so funny?! %r"
 print joke_evaluation%hilarious
 
+main_word = 'Ashes'
+part_1 = "%s" %main_word
+part_2 = "to ashes and"
+
+print "Ring around the rosy"
+print "Pocket full of posy"
+print part_1,					#We can use the comma to replace '\n' w/ ' '
+print part_2
+
+print 'we all fall down'
+
+print "*" * 25
+user_name = "\tbrian.steffes\n"
+print user_name * 10
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
