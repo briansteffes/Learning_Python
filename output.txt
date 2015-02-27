@@ -1,0 +1,24 @@
+My first file to be read in by a python program!
+I will be reading in some barely structured data contining information about my surroundings
+
+Date:			February 26, 2014
+City:			Chicago
+State:			IL
+Neighborhood:	Hyede Park
+University:		The University of Chicago
+Location:		Plein Air Cafe
+Weather:		Snowing
+Temperature:	18
+Temp Scale:		F
+My first file to be read in by a python program!
+I will be reading in some barely structured data contining information about my surroundings
+
+Date:			February 26, 2014
+City:			Chicago
+State:			IL
+Neighborhood:	Hyede Park
+University:		The University of Chicago
+Location:		Plein Air Cafe
+Weather:		Snowing
+Temperature:	18
+Temp Scale:		F
